@@ -5,7 +5,7 @@ Hey my name is **Felix** and I am a frontent developer and system integrator..
 - ☕ Full time coffee drinker
 - 🦉 Design Guru
 - 🔭 Rarely completes projects
-- 🍿 My favorite food is devintively pizza
+- 🍕 My favorite food is devintively pizza
 - 💬 You want to contact me? Here you go
   - Discord: Blemd#2690
   - Email: <hello@felix-schaar.de>
