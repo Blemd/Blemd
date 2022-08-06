@@ -1,5 +1,16 @@
 ## About Me
 
+Hey my name is **Felix** and I am a frontent developer and system integrator..
+
+- ☕ Full time coffee drinker
+- 🦉 Design Guru
+- 🔭 Rarely completes projects
+- 🍿 My favorite food is devintively pizza
+- 💬 You want to contact me? Here you go
+  - Discord: Blemd#2690
+  - Email: <hello@felix-schaar.de>
+
+
 ## 🧰 Languages and Tools:
 <p align="center">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="angular" height="40" style="vertical-align:top; margin:4px">
